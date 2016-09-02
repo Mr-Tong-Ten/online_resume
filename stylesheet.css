@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#header {
+height: 15%;
+width: 98.5%;
+display: relative;
+/*background: #C3CDD4;*/
+} 
+
+#header p {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+
+#name {
+    font-size: 40px;
+    float: left;
+    left: 20px;
+    bottom: 100px;
+    top: 35px;
+    position: relative;
+}
+
+#address {
+    top: 40px;
+    left: 360px;
+    position: relative;
+
+}
+
+#contact {
+top: 50px;
+left: 300px;
+position: relative;
+
+}
+
+.subheader {
+margin-left: 25px;
+display: relative;
+}
+
+.subheader_title {
+font: 30px Verdana lighter;
+}
+
+
+.line {
+margin-left: 20px;
+height: 1px;
+width: 96%;
+background-color: black;
+display: relative;
+}
+
+.content {
+margin-left: 30px;
+height: 15%;
+width: 100%;
+}
+
+.content p{
+margin: 5px;
+}
+
+
+.left, .right {
+height: 100px;
+vertical-align: top;
+}
+
+.left {
+display: inline-block;
+width: 60%;
+}
+
+.left p{
+font-family: Verdana;
+font-size: 15px;
+top: 6px;
+position: relative;
+}
+
+.right {
+display: inline-block;
+width: 35%;
+}
+
+.right p {
+font-family: Verdana;
+font-size: 15px;
+top: 6px;
+position: relative;
+}
+
+#graduation {
+left: 335px;
+position: relative;
+}
+
+
+#graduation_date {
+left: 415px;
+position: relative;
+}
+
+
+
+.location {
+font-weight: bold;
+}
+
+#test {
+position: relative;
+background: yellow;
+}
+
+.position {
+    font-style: italic;
+
+}
+
+.duration {
+    float: right;
+    right: 20px;
+}
+
+.bullets {
+    margin-left: 30px;
+    margin-top: -35px;
+}
+
+.bullets ul li {
+    font: 14px Verdana;
+    padding: 3.5px 5px;
+}
+
+.space {
+    height: 20px;
+}
+
+#skills_space {
+    height: 4px;
+}
+
+#skills_interests {
+    font-family: Verdana;
+    font-size: 15px;
+
+
+}
+
+span {
+    font-weight: bold;
+}
+
+
